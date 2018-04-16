@@ -1,11 +1,3 @@
-# -------------------------------------------------------------
-# Panoptes Export Extraction Script
-#
-# This script extracts yes/no/null values for Steller Watch workflow 1
-#
-# Based on scripts by: Cliff Johnson (lcj@ucsd.edu)
-# Last modified by LT: 2-27-17 
-# -------------------------------------------------------------
 
 # Note: In order for script to work:
 #1) needed to find-replace all null values with ""null"" within the original presence-or-absence-classifications.csv file obtained from the Project Builder 'Data Exports'.
